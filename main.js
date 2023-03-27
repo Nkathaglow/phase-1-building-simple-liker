@@ -6,6 +6,8 @@ const FULL_HEART = '♥'
 const error = document.getElementById('modal');
 error.setAttribute('class','hidden');
 
+const heartIcon = document.querySelectorAll('.like-glyph')
+
 
 
 
